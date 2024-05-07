@@ -118,7 +118,7 @@ Publish the website in the LocalHost.
   </section>
 
   <footer class="text-center py-3 bg-light">
-    <p>&copy; 2024 Pharmagenix</p>
+    <p>&copy; 2024 Pharmagenix LOKESH M(212223230114)</p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -232,7 +232,7 @@ Publish the website in the LocalHost.
   </section>
 
   <footer class="text-center py-3 bg-light">
-    <p>&copy; 2024 Pharmagenix</p>
+    <p>&copy; 2024 Pharmagenix LOKESH M (212223230114)</p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -326,7 +326,7 @@ Publish the website in the LocalHost.
   </section>
 
   <footer class="text-center py-3 bg-light">
-    <p>&copy; 2024 Pharmagenix</p>
+    <p>&copy; 2024 Pharmagenix LOKESH M (212223230114)</p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -421,7 +421,7 @@ Publish the website in the LocalHost.
   </section>
 
   <footer class="text-center py-3 bg-light fixed-bottom">
-    <p>&copy; 2024 Pharmagenix</p>
+    <p>&copy; 2024 Pharmagenix LOKESH M (212223230114)</p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -432,11 +432,11 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](loki/pharmaapp/static/homepageout.png)
+![alt text](loki/pharmaapp/static/homeout.png)
 
 ![alt text](loki/pharmaapp/static/productsout.png)
 
-![alt text](loki/pharmaapp/static/newsandeventsout.png)
+![alt text](loki/pharmaapp/static/news&eventsout.png)
 
 ![alt text](loki/pharmaapp/static/contactout.png)
 ## RESULT:
